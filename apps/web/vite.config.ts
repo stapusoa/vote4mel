@@ -3,11 +3,10 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/postcss'
 import autoprefixer from 'autoprefixer'
-import { cloudflare } from '@cloudflare/vite-plugin';
 
 
 export default defineConfig({
-  plugins: [react(), cloudflare()],
+  plugins: [react()],
   css: {
     postcss: {
       plugins: [tailwindcss(), autoprefixer],
