@@ -1,8 +1,4 @@
 @import "tailwindcss";
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
-@import "tailwindcss/forms";
 
 /* Definition of the design system. All colors, gradients, fonts, etc should be defined here. */
 
