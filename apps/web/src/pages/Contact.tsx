@@ -68,7 +68,7 @@ const Contact = () => {
                 <div>
                   <h4 className="font-semibold mb-2">Get in Touch</h4>
                   <p className="text-muted-foreground mb-2">
-                    Email: sarah@sarahforcitycouncil.com<br />
+                    Email: email.com<br />
                     Phone: (555) 123-4567
                   </p>
                 </div>
@@ -103,8 +103,8 @@ const Contact = () => {
       
       <div className="text-center mt-16 pt-8 border-t border-border">
         <p className="text-muted-foreground">
-          Paid for by Sarah Martinez for City Council | 
-          <span className="ml-2">sarah@sarahforcitycouncil.com</span>
+          Paid for by Melanie Bott for City Council | 
+          <span className="ml-2">melaniebott.com</span>
         </p>
       </div>
     </section>
