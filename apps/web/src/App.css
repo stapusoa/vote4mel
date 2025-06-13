@@ -5,6 +5,10 @@
   text-align: center;
 }
 
+body {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
 .logo {
   height: 6em;
   padding: 1.5em;

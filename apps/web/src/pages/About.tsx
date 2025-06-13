@@ -9,7 +9,7 @@ const About = () => {
         <div className="max-w-6xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              About Sarah Martinez
+              About Melanie Bott 
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
               A dedicated community leader with a proven track record of bringing people together 
@@ -21,7 +21,7 @@ const About = () => {
             <div>
               <img 
                 src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
-                alt="Sarah Martinez speaking at community event"
+                alt="Melanie Bott speaking at community event"
                 className="w-full h-96 object-cover rounded-lg shadow-lg"
               />
             </div>
