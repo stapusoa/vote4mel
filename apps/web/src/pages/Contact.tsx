@@ -57,29 +57,17 @@ const Contact = () => {
             <div>
               <h3 className="text-2xl font-semibold text-foreground mb-6">Contact Information</h3>
               <div className="space-y-6">
-                <div>
-                  <h4 className="font-semibold mb-2">Campaign Office</h4>
-                  <p className="text-muted-foreground">
-                    123 Main Street, Suite 200<br />
-                    Your City, State 12345
-                  </p>
-                </div>
+                
                 
                 <div>
                   <h4 className="font-semibold mb-2">Get in Touch</h4>
                   <p className="text-muted-foreground mb-2">
-                    Email: email.com<br />
-                    Phone: (555) 123-4567
+                    Email: melaniebott@gmail.com<br />
+                    Phone: (801) 669-0451
                   </p>
                 </div>
                 
-                <div>
-                  <h4 className="font-semibold mb-2">Office Hours</h4>
-                  <p className="text-muted-foreground">
-                    Monday - Friday: 9:00 AM - 6:00 PM<br />
-                    Saturday: 10:00 AM - 4:00 PM
-                  </p>
-                </div>
+                
               </div>
             </div>
           </div>
