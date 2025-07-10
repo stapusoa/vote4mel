@@ -7,7 +7,9 @@
     --font-serif: "Merriweather", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
     --font-mono: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
-
+    --font-primary: "Oswald";
+    --font-secondary: "Montserrat";
+    
     --text-xs: 0.75rem;
     --text-sm: 0.875rem;
     --text-base: 1rem;

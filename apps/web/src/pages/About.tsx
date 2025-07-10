@@ -1,6 +1,7 @@
 
 import { Card, CardContent } from "../components/card";
 import { Users, Flag, Mail } from "lucide-react";
+import img from "@/assets/profile.jpeg"
 
 const About = () => {
   return (
@@ -20,10 +21,11 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
             <div>
               <img 
-                src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                src={img}
                 alt="Melanie Bott speaking at community event"
                 className="w-full h-96 object-cover rounded-lg shadow-lg"
               />
+              
             </div>
             
             <div className="space-y-6">
